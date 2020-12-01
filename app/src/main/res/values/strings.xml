@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HT3_Android1</string>
+    <string name="text">Text</string>
+    <string name="get_second_activity">Get second activity</string>
+    <string name="get_gmail">gmail</string>
+    <string name="get_first_activity">Get first activity</string>
+</resources>
